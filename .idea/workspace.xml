@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dcba30ab-889a-4430-b6a1-9755ddaff861" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/rickandmortyaufgabe/Character.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/rickandmortyaufgabe/CharacterResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/rickandmortyaufgabe/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/rickandmortyaufgabe/RMService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/rickandmortyaufgabe/RickAndMortyAufgabeApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/rickandmortyaufgabe/RickAndMortyAufgabeApplicationTests.java" afterDir="false" />
-    </list>
+    <list default="true" id="dcba30ab-889a-4430-b6a1-9755ddaff861" name="Changes" comment="Aufgabe Fertig" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,6 +50,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -89,11 +76,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678960677964</updated>
-      <workItem from="1678960681740" duration="8131000" />
+      <workItem from="1678960681740" duration="8295000" />
     </task>
+    <task id="LOCAL-00001" summary="Aufgabe Fertig">
+      <created>1678972042967</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678972042967</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Aufgabe Fertig">
+      <created>1678972168299</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678972168299</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Aufgabe Fertig" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aufgabe Fertig" />
   </component>
 </project>
